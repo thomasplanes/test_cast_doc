@@ -1,3 +1,5 @@
+.. _principles:
+
 General principles
 ===================================
 

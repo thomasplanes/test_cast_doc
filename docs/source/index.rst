@@ -16,6 +16,8 @@ Contents
 
 .. toctree::
 
+   license
+   citation
    principles
    usage
    examples
