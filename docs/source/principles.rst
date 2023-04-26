@@ -1,7 +1,8 @@
 .. _principles:
 
+**************
 General principles
-===================================
+**************
 
 The simplified current architecture of AeroMAPS is given in :numref:`architecture`.
 

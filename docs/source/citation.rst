@@ -1,7 +1,7 @@
 .. _citation:
 
 **************
-How to cite us
+Citation
 **************
 
 Please cite this article when using AeroMAPS in your research works:
