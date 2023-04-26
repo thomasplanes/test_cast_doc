@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'AeroMAPS'
+copyright = '2023, AeroMAPS Development Team'
+author = 'AeroMAPS Development Team'
 
 release = '0.1'
 version = '0.1.0'
