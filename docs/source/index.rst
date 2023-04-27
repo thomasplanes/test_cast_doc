@@ -5,7 +5,8 @@ AeroMAPS is a framework for performing Multidisciplinary Assessment of Prospecti
 It is intended to become a sectoral Integrated Assessment Model (IAM) taking into account technological, sociological, economical and other considerations.
 It aims to assess the sustainability of simulated air transport transition scenarios on multiple criteria.
 
-The objective of this documentation is to provide the main elements concerning AeroMAPS. In particular, check out the :doc:`General principles` section for obtaining the architecture, methods and models of AeroMAPS, the :doc:`Usage` section for understanding how to use it, and the :doc:`Examples` section for discovering some applications.
+The objective of this documentation is to provide the main elements concerning AeroMAPS.
+In particular, check out the :doc:`installation` section for understanding how to use AeroMAPS, the :doc:`documentation` section for understanding the general principles of AeroMAPS, and the :doc:`examples` section for discovering some applications.
 
 .. note::
 
@@ -16,9 +17,11 @@ Contents
 
 .. toctree::
 
-   license
-   citation
-   principles
-   usage
+   installation
+   documentation
    examples
    api
+   citation
+   license
+   about
+
