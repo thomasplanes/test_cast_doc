@@ -5,6 +5,7 @@ About AeroMAPS
 **************
 
 AeroMAPS, formerly CAST, is a framework developed in Python by ISAE-SUPAERO (Toulouse, France).
+It is also fed by multiple multidisciplinary works from the Institute for Sustainable Aviation (ISA).
 
 
 Authors
@@ -27,4 +28,4 @@ Acknowledgments
 ------------
 
 The authors and contributors would like to thank the following people who participated in the development of AeroMAPS versions:
-Alice Fabre, Martin Delavenne, Valérie Pommier-Budinger and Emmanuel Bénard.
+Alice Fabre, Martin Delavenne, Félix Pollet and Emmanuel Bénard.

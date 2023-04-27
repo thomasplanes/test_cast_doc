@@ -1,10 +1,10 @@
-.. _usage:
-
-**************
-Usage
-**************
-
 .. _installation:
+
+**************
+Installation
+**************
+
+.. _test:
 
 Installation
 ------------
